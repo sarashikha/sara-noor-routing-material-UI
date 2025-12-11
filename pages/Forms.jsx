@@ -1,0 +1,1 @@
+export default function Forms(){return <h2>Forms Page</h2>}

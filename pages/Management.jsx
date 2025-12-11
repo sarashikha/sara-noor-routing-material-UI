@@ -1,0 +1,1 @@
+export default function Management(){return <h2>Management Page</h2>}
